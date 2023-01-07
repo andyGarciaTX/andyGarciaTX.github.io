@@ -13,6 +13,12 @@ img {
     width: 1000px;
   }
 
+  .bodycontainer {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+  }
+
   .customcontainer {
     width: 100%;
     height: 100%;
